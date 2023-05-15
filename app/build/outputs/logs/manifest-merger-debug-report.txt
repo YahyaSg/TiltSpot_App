@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-3\06b1617c16b428f5b01cc488fef8e3a1\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\953e8c6c089f39a9349cee7ef224d648\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\1cddda8d58423edce4afaf738db884d1\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5a39a2438f7adc91b5c51dfb1698a589\transformed\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\549f759c721477f89365c3b8df4c2105\transformed\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cbc6d2e039f743608a288827c19f19d9\transformed\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5505fbb570f72ad07fe09cb39c67588f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cb9f9954fcb450e9629d8154828df586\transformed\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\db64ef418f666fbd7fdf1cd4551ecb6d\transformed\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+	package
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:16:11-49
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:1-35:12
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:15:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:18:22-77
+application
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:19:5-33:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-3\06b1617c16b428f5b01cc488fef8e3a1\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-3\06b1617c16b428f5b01cc488fef8e3a1\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\953e8c6c089f39a9349cee7ef224d648\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\953e8c6c089f39a9349cee7ef224d648\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\1cddda8d58423edce4afaf738db884d1\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\1cddda8d58423edce4afaf738db884d1\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5a39a2438f7adc91b5c51dfb1698a589\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5a39a2438f7adc91b5c51dfb1698a589\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\549f759c721477f89365c3b8df4c2105\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\549f759c721477f89365c3b8df4c2105\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cbc6d2e039f743608a288827c19f19d9\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cbc6d2e039f743608a288827c19f19d9\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5505fbb570f72ad07fe09cb39c67588f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5505fbb570f72ad07fe09cb39c67588f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cb9f9954fcb450e9629d8154828df586\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cb9f9954fcb450e9629d8154828df586\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\db64ef418f666fbd7fdf1cd4551ecb6d\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\db64ef418f666fbd7fdf1cd4551ecb6d\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.tiltspot.MainActivity
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:26:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-3\06b1617c16b428f5b01cc488fef8e3a1\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-3\06b1617c16b428f5b01cc488fef8e3a1\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\953e8c6c089f39a9349cee7ef224d648\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\953e8c6c089f39a9349cee7ef224d648\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\1cddda8d58423edce4afaf738db884d1\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\1cddda8d58423edce4afaf738db884d1\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5a39a2438f7adc91b5c51dfb1698a589\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5a39a2438f7adc91b5c51dfb1698a589\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\549f759c721477f89365c3b8df4c2105\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\549f759c721477f89365c3b8df4c2105\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cbc6d2e039f743608a288827c19f19d9\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cbc6d2e039f743608a288827c19f19d9\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5505fbb570f72ad07fe09cb39c67588f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5505fbb570f72ad07fe09cb39c67588f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cb9f9954fcb450e9629d8154828df586\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cb9f9954fcb450e9629d8154828df586\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\db64ef418f666fbd7fdf1cd4551ecb6d\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\db64ef418f666fbd7fdf1cd4551ecb6d\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kuliah S2\Semester 3\PAPB\Android\TiltSpot\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\953e8c6c089f39a9349cee7ef224d648\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\953e8c6c089f39a9349cee7ef224d648\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\1cddda8d58423edce4afaf738db884d1\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\1cddda8d58423edce4afaf738db884d1\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5a39a2438f7adc91b5c51dfb1698a589\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5a39a2438f7adc91b5c51dfb1698a589\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\549f759c721477f89365c3b8df4c2105\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\549f759c721477f89365c3b8df4c2105\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cbc6d2e039f743608a288827c19f19d9\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cbc6d2e039f743608a288827c19f19d9\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5505fbb570f72ad07fe09cb39c67588f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\5505fbb570f72ad07fe09cb39c67588f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cb9f9954fcb450e9629d8154828df586\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\cb9f9954fcb450e9629d8154828df586\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\db64ef418f666fbd7fdf1cd4551ecb6d\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\db64ef418f666fbd7fdf1cd4551ecb6d\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.gradle\caches\transforms-3\9ea379382aa3cc6506d83db22c86a3d6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\21adaa870044eca36cc83cf333352db3\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58
